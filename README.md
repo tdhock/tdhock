@@ -25,6 +25,7 @@ I think reproducible research is important, so in addition to every research pap
   
 Summary of selected software that I have authored or co-authored.
 
+* [penaltyLearning](https://github.com/tdhock/penaltyLearning): supervised learning algorithms for predicting penalty values in labeled optimal change-point problems.
 * [atime](https://github.com/tdhock/atime): asymptotic time complexity estimation, comparative benchmarking, performance testing.
 * [mlr3resampling](https://github.com/tdhock/mlr3resampling): new cross-validation algorithms for mlr3 framework in R.
 * [aum](https://github.com/tdhock/aum): Area Under Min(FP,FN), a new loss function for imbalanced classification and supervised changepoint detection.
