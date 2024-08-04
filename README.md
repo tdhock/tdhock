@@ -32,6 +32,7 @@ Below is a summary of selected software that I have authored or co-authored.
 * [mlr3resampling](https://github.com/tdhock/mlr3resampling): new cross-validation algorithms for mlr3 framework in R.
 * [mmit](https://github.com/aldro61/mmit): Max Margin Interval Trees, decision tree learning for regression with interval-censored outputs.
 * [rankSVMcompare](https://github.com/tdhock/rankSVMcompare): support vector machine for learning ranking and comparison functions from labeled pairs of observations.
+* [WeightedROC](https://github.com/tdhock/WeightedROC): efficient computation of ROC curves and AUC for binary classification data sets with weights.
 
 ### Unsupervised learning
 
