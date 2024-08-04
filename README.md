@@ -23,7 +23,7 @@ I think reproducible research is important, so in addition to every research pap
   paper, typically as an R package. [See my Software
   page](https://tdhock.github.io/software/).
   
-Summary of selected software that I have authored or co-authored.
+Below is a summary of selected software that I have authored or co-authored.
 
 ### Supervised machine learning
 
