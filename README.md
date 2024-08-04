@@ -25,22 +25,39 @@ I think reproducible research is important, so in addition to every research pap
   
 Summary of selected software that I have authored or co-authored.
 
+### Supervised machine learning
+
 * [penaltyLearning](https://github.com/tdhock/penaltyLearning): supervised learning algorithms for predicting penalty values in labeled optimal change-point problems.
-* [atime](https://github.com/tdhock/atime): asymptotic time complexity estimation, comparative benchmarking, performance testing.
-* [mlr3resampling](https://github.com/tdhock/mlr3resampling): new cross-validation algorithms for mlr3 framework in R.
 * [aum](https://github.com/tdhock/aum): Area Under Min(FP,FN), a new loss function for imbalanced classification and supervised changepoint detection.
-* [RcppDeepState](https://github.com/FabrizioSandri/RcppDeepState): fuzz testing compiled code in Rcpp packages.
+* [mlr3resampling](https://github.com/tdhock/mlr3resampling): new cross-validation algorithms for mlr3 framework in R.
+* [mmit](https://github.com/aldro61/mmit): Max Margin Interval Trees, decision tree learning for regression with interval-censored outputs.
+* [rankSVMcompare](https://github.com/tdhock/rankSVMcompare): support vector machine for learning ranking and comparison functions from labeled pairs of observations.
+
+### Unsupervised learning
+
+* [clusterpath](http://clusterpath.r-forge.r-project.org/): convex optimization algorithms for clustering, using fusion penalties.
+
+### Change-point detection
+
+* [binsegRcpp](https://github.com/tdhock/binsegRcpp): efficient implementation of the classic binary segmentation heuristic algorithm for change-point detection in sequential data.
 * [LOPART](https://github.com/tdhock/LOPART): Labeled Optimal Partitioning, quadratic time dynamic programming algorithm for optimal change-point detection in labeled data sequences.
 * [FLOPART](https://github.com/tdhock/FLOPART): Functional Labeled Optimal Partitioning, log-linear time dynamic programming algorithm for optimal change-point detection in labeled count data sequences.
 * [gfpop](https://github.com/vrunge/gfpop): Generalized Functional Pruning Optimal Partitioning, log-linear time dynamic programming algorithm for optimal change-point detection using a graph to define constraints on adjacent segment parameters.
 * [PeakSegDisk](https://github.com/tdhock/PeakSegDisk): disk-based dynamic programming algorithm, which uses log-linear time and log memory, for up-down constrained change-point detection in count data sequences.
 * [PeakSegJoint](https://github.com/tdhock/PeakSegJoint): heuristic algorithm for detecting a single common peak in several aligned count data sequences.
-* [clusterpath](http://clusterpath.r-forge.r-project.org/): convex optimization algorithms for clustering, using fusion penalties.
-* [rankSVMcompare](https://github.com/tdhock/rankSVMcompare): support vector machine for learning ranking and comparison functions from labeled pairs of observations.
-* [animint2](https://github.com/tdhock/animint2): animated, interactive grammar of graphics.
-* [mmit](https://github.com/aldro61/mmit): Max Margin Interval Trees, decision tree learning for regression with interval-censored outputs.
-* [binsegRcpp](https://github.com/tdhock/binsegRcpp): efficient implementation of the classic binary segmentation heuristic algorithm for change-point detection in sequential data.
-* [directlabels](https://github.com/tdhock/directlabels): automatic direct label placement for multi-color plots.
+
+### Software testing and R package development
+
+* [atime](https://github.com/tdhock/atime): asymptotic time complexity estimation, comparative benchmarking, performance testing.
+* [RcppDeepState](https://github.com/FabrizioSandri/RcppDeepState): fuzz testing compiled code in Rcpp packages.
 * [inlinedocs](https://github.com/tdhock/inlinedocs): documentation generation for R packages.
+
+### Data visualization
+
+* [animint2](https://github.com/tdhock/animint2): animated, interactive grammar of graphics.
+* [directlabels](https://github.com/tdhock/directlabels): automatic direct label placement for multi-color plots.
+
+### Data reading, manipulation, analysis
+
 * [nc](https://github.com/tdhock/nc): named capture regular expressions in R.
 * [data.table](https://github.com/rdatatable/data.table): efficient data reading, manipulation and analysis in R.
