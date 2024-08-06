@@ -1,6 +1,6 @@
 Hi! I have been working on machine learning and statistical software
 (especially using R/Python/C/C++/JavaScript) since my undergrad in
-Berkeley Stats (BS 2006), and my PhD in Paris (2012). Since 2024 I
+Berkeley Stats (BA 2006), and my PhD in Paris (2012). Since 2024 I
 work as a Tenured Associate Professor in Université de Sherbrooke,
 Département d'Informatique, where I direct the [LASSO research
 lab](https://lassolab.org/) (Learning Algorithms, Statistical
