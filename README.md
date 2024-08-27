@@ -8,7 +8,7 @@ Software, Optimization).
 See [my web page for complete
 CV](https://tdhock.github.io/).
 
-I have published 50+ peer-reviewed research papers on machine learning and statistical software. 
+I have published 40+ peer-reviewed research papers on machine learning and statistical software. 
 My research emphasizes fast, accurate, and interpretable algorithms for learning from large data, using continuous optimization (clustering, regression, ranking, classification) and discrete optimization (changepoint detection, dynamic programming). The main application domains for these algorithms are genomics, neuroscience, medicine, microbiome, cybersecurity, robotics, satellite/sonar imagery, climate/carbon modeling. [See my Publications page for more info](https://tdhock.github.io/publications/).
 
 I have mentored 30+ students in research projects, as well as another 30+ open-source software contributors with R Project in Google Summer of Code.
