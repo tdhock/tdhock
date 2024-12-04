@@ -5,8 +5,11 @@ work as a Tenured Associate Professor in Université de Sherbrooke,
 Département d'Informatique, where I direct the [LASSO research
 lab](https://lassolab.org/) (Learning Algorithms, Statistical
 Software, Optimization). 
-See [my web page for complete
-CV](https://tdhock.github.io/).
+As the leader of [Data Table Ninjas](https://datatableninjas.com/), I
+also provide consulting services related to R `data.table`,
+including big data analysis, machine learning, data visualization, and
+teaching specialized programming classes related to these subjects.
+See [my web page for complete CV](https://tdhock.github.io/).
 
 I have published 40+ peer-reviewed research papers on machine learning and statistical software. 
 My research emphasizes fast, accurate, and interpretable algorithms for learning from large data, using continuous optimization (clustering, regression, ranking, classification) and discrete optimization (changepoint detection, dynamic programming). The main application domains for these algorithms are genomics, neuroscience, medicine, microbiome, cybersecurity, robotics, satellite/sonar imagery, climate/carbon modeling. [See my Publications page for more info](https://tdhock.github.io/publications/).
