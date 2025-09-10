@@ -30,6 +30,7 @@ Below is a summary of selected software that I have authored or co-authored.
 
 ### Supervised machine learning
 
+* [mlr3torchAUM](https://github.com/tdhock/mlr3torchAUM): new loss functions and batch samplers for optimizing complex loss functions (like Area Under the ROC curve) in torch.
 * [penaltyLearning](https://github.com/tdhock/penaltyLearning): supervised learning algorithms for predicting penalty values in labeled optimal change-point problems.
 * [aum](https://github.com/tdhock/aum): Area Under Min(FP,FN), a new loss function for imbalanced classification and supervised changepoint detection.
 * [mlr3resampling](https://github.com/tdhock/mlr3resampling): new cross-validation algorithms for mlr3 framework in R.
